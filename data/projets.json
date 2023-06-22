@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Chats",
+        "date": "2022",
+        "cours": "Réalisation de site web",
+        "technologies": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "Figma",
+            "VSCode"
+        ],
+        "imgSrc": "../img/cat.png",
+        "url": "../pages/chats.html",
+        "design": true
+    },
+    {
+        "name": "Chiens",
+        "date": "2023",
+        "cours": "Réalisation de site web",
+        "technologies": [
+            "Pug",
+            "SASS",
+            "React"
+        ],
+        "imgSrc": "../img/dog.png"
+    },
+    {
+        "name": "Lapins",
+        "date": "2019",
+        "cours": "Réalisation de site web",
+        "technologies": [
+            "VueJS"
+        ],
+        "imgSrc": "../img/rabbit.png"
+    }
+]
